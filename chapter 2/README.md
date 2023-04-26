@@ -34,7 +34,7 @@ backspace | \b
 backslash | \.\
 carriage return | \r
 form feed | \f
-single quote | \.'
-double quote | \."
+single quote | .\.'
+double quote | .\."
 question mark | \?
 alert (bell) | \a
