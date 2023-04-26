@@ -38,3 +38,4 @@ single quote | *\'
 double quote | *\"
 question mark | \?
 alert (bell) | \a
+**Note** | replace * with \
