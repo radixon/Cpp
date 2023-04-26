@@ -31,10 +31,10 @@ newline | \n
 horizontal tab | \t
 vertical tab | \v
 backspace | \b
-backslash | >\\
+backslash | \.\
 carriage return | \r
 form feed | \f
-single quote | >\'
-double quote | >\"
+single quote | \.'
+double quote | \."
 question mark | \?
 alert (bell) | \a
