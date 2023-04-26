@@ -19,5 +19,5 @@ char | 1 | -128 to 127
 signed char | 1 | -128 to 127
 unsigned char | 1 | 0 to 255
 float | 4 | -3.4e38 to 3.4e38
-double | 8 | =1.7e308 to 1.7e308
+double | 8 | -1.7e308 to 1.7e308
 
