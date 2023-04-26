@@ -4,4 +4,14 @@ Stanley B. Lippman
 Josee Lajoie
 Barbara E. Moo
 
-Practice Programs
+## Chapter 2
+Variables and Basic Types
+
+## Chapter 3
+Strings, Vectors, and Arrays
+
+## Chapter 4
+Expressions
+
+## Chapter 5
+Statements
