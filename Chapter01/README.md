@@ -4,5 +4,5 @@ The C++ compiler sequentially goes through each line of the source code.  if the
 <br />
 ![image](https://user-images.githubusercontent.com/59415488/236364489-506a43b3-d376-4a57-8338-03e0a18809c4.png)
 <br />
-The execution path is the sequence in which the computer executes statements.  The execution path is sequential unless a flow-of-constrol statement is written.  Flow-of-control statements are controlled by condition statements.  A condition result is either true or false.  If the condition is true the flow-of-control statement(s) are executed.
+The execution path is the sequence in which the computer executes statements.  The execution path is sequential unless a flow-of-control statement is written.  Flow-of-control statements are controlled by condition statements.  A condition result is either true or false.  If the condition is true the flow-of-control statement(s) are executed.
 <br />
